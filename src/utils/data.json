@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "position": "Front-End Development Intern (React.js)",
+    "company": "Aviate",
+    "jobLocation": "Remote",
+    "jobType": "Full-time",
+    "createdAt": "2 days ago",
+    "status": true
+  },
+  {
+    "_id": 2,
+    "position": "React developer",
+    "company": "Amazon",
+    "jobLocation": "Remote",
+    "jobType": "Full-time",
+    "createdAt": "1 days ago",
+    "status": true
+  },
+  {
+    "_id": 3,
+    "position": "Junior developer",
+    "company": "Google",
+    "jobLocation": "Remote",
+    "jobType": "Full-time",
+    "createdAt": "1 days ago",
+    "status": true
+  },
+  {
+    "_id": 4,
+    "position": "React Native developer",
+    "company": "Netflix",
+    "jobLocation": "Remote",
+    "jobType": "Full-time",
+    "createdAt": "1 days ago",
+    "status": true
+  }
+]
